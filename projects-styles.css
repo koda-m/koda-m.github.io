@@ -1,0 +1,41 @@
+body {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	background-color: #8ba0a4;
+	color: #183e4b;
+}
+
+a {
+	color: #183e4b;
+}
+
+h1, h2 {
+	text-align: center;
+	color: #183e4b;
+}
+
+.home {
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	background-color: #1b4552;
+	color: #eaeaea;
+	text-decoration: none;
+	border: none;
+	border-radius: 10px;
+	margin: .5em;
+	padding: 1em;
+}
+
+.projects-container {
+	background-color: #eaeaea;
+	display: block;
+	justify-content: center;
+	width: 80%;
+	margin: auto;
+	padding: 2%;
+	border-radius: 10px;
+	text-align: center;
+}
