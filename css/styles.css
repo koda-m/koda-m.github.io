@@ -321,6 +321,7 @@ footer a:hover {
     display: inline-flex;
     gap: 0.5rem;
     padding: 0.6rem 1.2rem;
+    margin-top: 1rem;
     font-weight: 600;
     border-radius: 8px;
     text-decoration: none;
