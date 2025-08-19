@@ -398,20 +398,10 @@ footer a:hover {
 }
 
 .social-links a {
-	background-image: linear-gradient(to right, var(--super-pink), var(--tangerine));
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	background-clip: text;
-	color: transparent;
-    transition: color 0.3s ease;
+	color: var(--white) !important;
 }
 
 .social-links a:hover {
-    background-image: linear-gradient(to right, var(--tangerine), var(--super-pink));
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	background-clip: text;
-	color: transparent;
     transition: color 0.3s ease;
 }
 
