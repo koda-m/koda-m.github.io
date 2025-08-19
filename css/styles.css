@@ -441,6 +441,19 @@ footer a:hover {
         height: 250px;
         border-radius: 20px;
     }
+
+    .experience li, .certs li, .skills li {
+        list-style-type: none;
+        padding-top: 1rem;
+    }
+
+    .education {
+        padding-top: 1rem;
+    }
+
+    .resume-button {
+        text-align: center;
+    }
 }
 
 @media (min-width: 768px) {
